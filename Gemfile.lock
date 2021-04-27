@@ -167,7 +167,7 @@ GEM
       rubyzip (~> 1.0.0)
     axlsx_rails (0.1.5)
       axlsx
-      rails (>= 3.1)
+      rails (>= 4)
     bcrypt (3.1.11)
     bcrypt-ruby (3.1.5)
       bcrypt (>= 3.1.3)
